@@ -26,4 +26,4 @@ end
 
 end
 
-cents(1)
+least_coins(1)
