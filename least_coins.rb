@@ -26,4 +26,4 @@ end
 
 end
 
-least_coins(1)
+puts least_coins(29)
