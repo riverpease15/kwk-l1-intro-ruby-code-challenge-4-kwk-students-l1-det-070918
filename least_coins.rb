@@ -23,7 +23,7 @@ coins[:penny] += 1
 cents -= 1
 end
 
-puts least_coins 
+return coins 
 
 end
 
